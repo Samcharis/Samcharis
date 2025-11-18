@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Heyya, I'm Samcharis, but call me Saintt! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
@@ -20,6 +20,7 @@ I'm a passionate junior soware engineer with experience in backend and intergrat
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
