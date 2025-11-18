@@ -1,6 +1,6 @@
 # Heyya, I'm Samcharis, but call me Saintt! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image] (your_banner_image_url_here)
 
 ## About Me 🚀
 
@@ -40,8 +40,8 @@ I'm a passionate junior soware engineer with experience in backend and intergrat
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn] www.linkedin.com/in/samcharis-mouiche-103153254
-- **[Twitter]**(your_twitter_profile_link)
-
+- **[Personal Website / Blog]** (your_website_or_blog_link)
+-  ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white): www.linkedin.com/in/samcharis-mouiche-103153254
+- **[Twitter]** (your_twitter_profile_link)
+- 
 
